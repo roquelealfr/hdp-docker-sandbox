@@ -4,7 +4,7 @@ set -x
 
 # CAN EDIT THESE VALUES
 registry="hortonworks"
-name="sandbox-hdp"
+name="sandbox-hdp-standalone"
 version="2.6.5"
 proxyName="sandbox-proxy"
 proxyVersion="1.0"
