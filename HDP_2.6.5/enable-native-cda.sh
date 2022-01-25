@@ -6,7 +6,7 @@ registry="hortonworks"
 hdpVersion="2.6.5"
 hdfVersion="3.1.1"
 hdfSandbox="sandbox-hdf"
-hdpSandbox="sandbox-hdp"
+hdpSandbox="sandbox-hdp-standalone"
 
 # housekeeping
 
